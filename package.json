@@ -1,0 +1,23 @@
+{
+  "name": "live-replace-proxy",
+  "version": "0.2.0",
+  "description": "Web proxy that replaces JavaScript on a live website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/RYLabs/live-replace-proxy.git"
+  },
+  "keywords": [
+    "proxy",
+    "webdevelopment"
+  ],
+  "author": "Calvin Yu <calvin@rylabs.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RYLabs/live-replace-proxy/issues"
+  },
+  "homepage": "https://github.com/RYLabs/live-replace-proxy#readme"
+}
