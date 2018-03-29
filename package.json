@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/RYLabs/live-replace-proxy/issues"
   },
-  "homepage": "https://github.com/RYLabs/live-replace-proxy#readme"
+  "homepage": "https://github.com/RYLabs/live-replace-proxy#readme",
+  "dependencies": {
+    "anyproxy": "^4.0.6"
+  }
 }

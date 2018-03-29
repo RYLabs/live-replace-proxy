@@ -1,5 +1,7 @@
-const LiveReplaceProxy = require('proxy');
+const LiveReplaceProxy = require("./lib/proxy");
 
-export function proxy(hosts, scriptId, scriptFile, options) {
+function proxy(hosts, scriptId, scriptFile, options) {
   return new LiveReplaceProxy(hosts, scriptId, scriptFile, options);
 }
+
+exports.proxy = proxy;
