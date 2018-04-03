@@ -1,6 +1,6 @@
 {
   "name": "live-replace-proxy",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Web proxy that replaces JavaScript on a live website",
   "main": "index.js",
   "scripts": {
